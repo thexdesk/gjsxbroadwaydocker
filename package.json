@@ -26,8 +26,8 @@
     "docker"
   ],
   "version": "1.8.2",
-  "repository": "git@github.com:bresnow/gjsx-broadway-docker.git",
-  "author": "bresnow <bresnow@me.com>",
+  "repository": "git@github.com:thexdesk/gjsx-broadway-docker.git",
+  "author": "pardo <pardo@xdesk.app>",
   "license": "MIT",
   "devDependencies": {
     "@types/prettier": "^2.7.1",
