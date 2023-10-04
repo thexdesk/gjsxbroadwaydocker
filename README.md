@@ -5,8 +5,8 @@ This project builds a gtk-4.0 gjs project with esbuild via nodejs as a custom js
 ## Running the project locally
 Clone the project. Compile the jsx in the source directories.
 ```terminal
-git clone https://github.com/bresnow/gjsx-broadway-docker.git 
-cd gjsx-broadway-docker
+git clone https://github.com/thexdesk/gjsxbroadwaydocker.git 
+cd gjsxbroadwaydocker
 yarn
 yarn build
 ```
